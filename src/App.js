@@ -34,8 +34,6 @@ const App = () => {
   const messages = [
     { emoji: '✨', text: 'Your smile lights up my world' },
     { emoji: '🌟', text: 'Every moment with you is magical' },
-    { emoji: '❤️', text: "You're the missing piece to my heart" },
-    { emoji: '💝', text: 'My heart beats only for you' },
     { emoji: '🌹', text: 'You make every day feel like a dream' }
   ];
 
